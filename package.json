@@ -1,0 +1,12 @@
+{
+  "name": "file-conv",
+  "version": "1.0.0",
+  "description": "Sample codes for callback functions, promises, async/await",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Red Bridge",
+  "license": "ISC"
+}
